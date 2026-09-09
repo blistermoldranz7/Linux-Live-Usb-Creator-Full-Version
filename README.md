@@ -233,4 +233,4 @@ This repository serves as the official landing page for Linux Live USB Creator. 
 **Get the most recent version of Linux Live USB Creator today!**
 
 ---
-**Last updated:** 2026-09-08 23:46:57 UTC
+**Last updated:** 2026-09-09 02:28:11 UTC
